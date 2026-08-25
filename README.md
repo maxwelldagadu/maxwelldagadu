@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I have two years of extensive experience building scalable, user-friendly applications across diverse industries. I specialize in frontend development, with a strong focus on creating intuitive, high-performance user interfaces. I am also actively expanding my expertise in backend development and have been progressing rapidly in learning and applying backend technologies.
+I have 2 years of extensive experience building scalable, user-friendly applications across diverse industries. I specialize in frontend development, with a strong focus on creating intuitive, high-performance user interfaces. I am also actively expanding my expertise in backend development and have been progressing rapidly in learning and applying backend technologies.
 
 * 🌍  I'm based in Ghana
 * ✉️  You can contact me at [maxwelldagadu02@gmail.com](mailto:maxwelldagadu02@gmail.com)
