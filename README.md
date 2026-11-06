@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 ------------------
 
-<<<<<<< HEAD
+
 I have 3 years of extensive experience building scalable, user-friendly applications across diverse industries. I specialize in Full Stack Developement, with a strong focus on creating intuitive, high-performance user user applications. I am also actively expanding my expertise learning new technologies and tools and has been progressing rapidly.
-=======
+
 
 
 * 🌍  I'm based in Ghana
