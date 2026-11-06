@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Maxwell Dagadu
 =======================================================================================================================================
 
-Frontend Developer
+Full Stack Developer
 ------------------
 
-I have two years of extensive experience building scalable, user-friendly applications across diverse industries. I specialize in frontend development, with a strong focus on creating intuitive, high-performance user interfaces. I am also actively expanding my expertise in backend development and have been progressing rapidly in learning and applying backend technologies.
+I have two years of extensive experience building scalable, user-friendly applications across diverse industries. I specialize in Full Stack Developement, with a strong focus on creating intuitive, high-performance user user applications. I am also actively expanding my expertise learning new technologies and tools and has been progressing rapidly.
 
 * 🌍  I'm based in Ghana
 * ✉️  You can contact me at [maxwelldagadu02@gmail.com](mailto:maxwelldagadu02@gmail.com)
