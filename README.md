@@ -4,7 +4,7 @@ Full Stack Developer
 ------------------
 
 
-I'm a Mid-Level Full Stack Developer building scalable, user-friendly web applications across multiple industries. I specialize in creating intuitive, high-performance user applications. I'm also actively expanding my expertise learning new technologies and tools and has been progressing rapidly.
+I'm a Mid-Level Full Stack Developer building scalable, user-friendly web applications across multiple industries. I specialize in creating intuitive, high-performance user applications. I'm also actively expanding my expertise learning new tools and technologies and has been progressing rapidly.
 
 
 
