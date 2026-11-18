@@ -28,17 +28,13 @@ I build across the stack—from intuitive interfaces to backend services, APIs, 
 
 <div align="center">
 
-**Frontend**<br />
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,shadcn&theme=dark" alt="React, Next.js, Tailwind CSS, and shadcn/ui" />
+<p><strong>Frontend &mdash;</strong> <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,shadcn&theme=dark" alt="React, Next.js, Tailwind CSS, and shadcn/ui" /></p>
 
-**Database & tools**<br />
-<img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,prisma,aws,git,github&theme=dark" alt="PostgreSQL, Supabase, MongoDB, Prisma, AWS, Git, and GitHub" />
+<p><strong>Database &amp; tools &mdash;</strong> <img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,prisma,aws,git,github&theme=dark" alt="PostgreSQL, Supabase, MongoDB, Prisma, AWS, Git, and GitHub" /></p>
 
-**Backend**<br />
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="Node.js, Express, and FastAPI" />
+<p><strong>Backend &mdash;</strong> <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="Node.js, Express, and FastAPI" /></p>
 
-**Programming languages**<br />
-<img src="https://skillicons.dev/icons?i=js,ts,python&theme=dark" alt="JavaScript, TypeScript, and Python" />
+<p><strong>Programming languages &mdash;</strong> <img src="https://skillicons.dev/icons?i=js,ts,python&theme=dark" alt="JavaScript, TypeScript, and Python" /></p>
 
 </div>
 
