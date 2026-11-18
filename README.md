@@ -39,7 +39,6 @@ I build across the stack—from intuitive interfaces to backend services, APIs, 
 
 </div>
 
-## GitHub at a glance
 
 <div align="center">
 
