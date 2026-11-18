@@ -1,16 +1,110 @@
 
 
-Full Stack Developer
-------------------
+\<div align="center">
+
+# Hey, I'm Maxwell 👋
+
+### Full Stack Developer
 
 
-I'm a Mid-Level Full Stack Developer building scalable, user-friendly web applications across multiple industries. I specialize in creating intuitive, high-performance user applications. I'm also actively expanding my expertise learning new tools and technologies and has been progressing rapidly.
+
+\<p>
+&#x20; Based in Ghana 🇬🇭 · Building for the web 🌍
+\</p>
+
+\<p>
+&#x20; \<a href="[https://github.com/maxwelldagadu](https://github.com/maxwelldagadu)">
+&#x20;   \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" />
+&#x20; \</a>
+&#x20; \<a href="[https://linkedin.com/in/maxwell-dagadu-34a09641a](https://linkedin.com/in/maxwell-dagadu-34a09641a)">
+&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" />
+&#x20; \</a>
+&#x20; \<a href="mailto\:maxwelldagadu02\@gmail.com">
+&#x20;   \<img src="[https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)" />
+&#x20; \</a>
+\</p>
+
+\</div>
+
+---
+
+## About Me
+
+I'm a Full Stack Developer passionate about building scalable, user-friendly web applications. I enjoy working across the stack, from creating intuitive interfaces to developing backend systems, integrating APIs, and designing database-driven applications.
+
+I'm particularly interested in early-stage products, developer tools, and emerging technologies. I enjoy learning by building and turning complex ideas into practical solutions.
+
+- 🌍 Based in Accra, Ghana.
+- 💻 Focused on Full Stack Development.
+- ⚡ Interested in building products that solve real problems.
+- 📩 Reach me at [**maxwelldagadu02@gmail.com**](mailto\:maxwelldagadu02@gmail.com)
+
+---
+
+## Tech Stack
+
+**Frontend**
+
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,shadcn,vite&theme=dark](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,shadcn,vite\&theme=dark)" />
+\</p>
+
+**Backend**
+
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=nodejs,express,python,fastapi&theme=dark](https://skillicons.dev/icons?i=nodejs,express,python,fastapi\&theme=dark)" />
+\</p>
+
+**Databases & Backend Services**
+
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=postgres,supabase,mongodb,redis,prisma&theme=dark](https://skillicons.dev/icons?i=postgres,supabase,mongodb,redis,prisma\&theme=dark)" />
+\</p>
+
+**Tools**
+
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=git,github,vscode&theme=dark](https://skillicons.dev/icons?i=git,github,vscode\&theme=dark)" />
+\</p>
+
+---
+
+## Featured Projects
+
+### 🚀 Cryptogram
+
+A cryptocurrency dashboard providing real-time market insights, cryptocurrency tracking, and crypto news.
+
+### 📊 Crypto Dashboard
+
+A real-time crypto market application integrating live exchange data and automated news processing.
+
+> Explore more of my work in my repositories.
 
 
 
-* 🌍  I'm based in Ghana
-* ✉️  You can contact me at [maxwelldagadu02@gmail.com](mailto:maxwelldagadu02@gmail.com)
+---
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" alt="Chakra UI" title="Chakra UI" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" alt="Webpack" title="Webpack" width="36" height="36" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" alt="Redux" title="Redux" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/shadcnui-colored-dark.svg" alt="Shadcn/ui" title="Shadcn/ui" width="36" height="36" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" alt="Sass" title="Sass" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" alt="MetaMask" title="MetaMask" width="36" height="36" /></a><a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" alt="Ethereum" title="Ethereum" width="36" height="36" /></a><a href="https://polygon.technology/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polygon-colored.svg" alt="Polygon" title="Polygon" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a><a href="https://framer.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" alt="Framer" title="Framer" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" /></a>
-</p>
+## GitHub Statistics
+
+\<div align="center">
+
+\<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=maxwelldagadu&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github](https://github-readme-stats.vercel.app/api?username=maxwelldagadu\&show_icons=true\&hide_border=true\&theme=tokyonight\&rank_icon=github)" />
+
+\<img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=maxwelldagadu&layout=compact&hide_border=true&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=maxwelldagadu\&layout=compact\&hide_border=true\&theme=tokyonight)" />
+
+\<br/>
+
+\<img width="70%" src="[https://streak-stats.demolab.com?user=maxwelldagadu&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=maxwelldagadu\&theme=tokyonight\&hide_border=true)" />
+
+\</div>
+
+---
+
+\<div align="center">
+
+### Thanks for stopping by! 👨‍💻
+
+\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:0F172A,100:2563EB\&height=100\&section=footer)" width="100%" />
+
+\</div>
