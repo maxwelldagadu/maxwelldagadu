@@ -47,7 +47,7 @@ I build across the stack—from intuitive interfaces to backend services, APIs, 
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=maxwelldagadu&hide_border=true&background=0F172A&ring=67E8F9&fire=A78BFA&currStreakLabel=67E8F9&sideLabels=CBD5E1&dates=94A3B8" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=maxwelldagadu&hide_border=true&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&background=0F172A&ring=67E8F9&fire=A78BFA&currStreakLabel=67E8F9&sideLabels=CBD5E1&dates=94A3B8" alt="GitHub total contributions, current streak, and longest streak" />
 
 </div>
 
