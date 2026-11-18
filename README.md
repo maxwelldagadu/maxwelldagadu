@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:06B6D4&height=220&section=header&text=MAXWELL%20DAGADU&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20GHANA&descSize=16&descAlignY=58" width="100%" alt="Maxwell Dagadu — Full-stack developer in Ghana" />
-
 ### Hey, I'm Maxwell 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=620&lines=Building+useful+things+for+the+web;From+thoughtful+UI+to+reliable+APIs;Always+learning%2C+always+shipping" alt="Animated introduction" />
@@ -12,6 +10,7 @@
 <a href="https://github.com/maxwelldagadu"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://linkedin.com/in/maxwell-dagadu-34a09641a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:maxwelldagadu02@gmail.com"><img src="https://img.shields.io/badge/Email-DB4437?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://komarev.com/ghpvc/?username=maxwelldagadu&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
@@ -36,21 +35,7 @@ I build across the stack—from intuitive interfaces to backend services, APIs, 
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi&theme=dark" alt="Node.js, Express, Python, and FastAPI" />
 
 **Data & tools**<br />
-<img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,redis,prisma,git,github,vscode&theme=dark" alt="PostgreSQL, Supabase, MongoDB, Redis, Prisma, Git, GitHub, and VS Code" />
-
-</div>
-
-## Featured work
-
-### 🚀 Cryptogram
-Cryptocurrency dashboard for real-time market insights, portfolio tracking, and crypto news.
-
-### 📊 Crypto Dashboard
-Real-time crypto market app integrating live exchange data and automated news processing.
-
-<div align="center">
-
-<a href="https://github.com/maxwelldagadu?tab=repositories">Explore all repositories →</a>
+<img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,prisma,aws,git,github,vscode&theme=dark" alt="PostgreSQL, Supabase, MongoDB, Prisma, AWS, Git, GitHub, and VS Code" />
 
 </div>
 
