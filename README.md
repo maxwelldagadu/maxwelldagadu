@@ -30,10 +30,10 @@ I build across the stack—from intuitive interfaces to backend services, APIs, 
 
 <table align="left">
 <tbody>
-<tr><td valign="middle" align="left"><strong>Frontend &mdash;</strong></td><td valign="middle" align="left"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,shadcn&theme=dark" alt="React, Next.js, Tailwind CSS, and shadcn/ui" /></td></tr>
-<tr><td valign="middle" align="left"><strong>Database &amp; tools &mdash;</strong></td><td valign="middle" align="left"><img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,prisma,aws,git,github&theme=dark" alt="PostgreSQL, Supabase, MongoDB, Prisma, AWS, Git, and GitHub" /></td></tr>
-<tr><td valign="middle" align="left"><strong>Backend &mdash;</strong></td><td valign="middle" align="left"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="Node.js, Express, and FastAPI" /></td></tr>
-<tr><td valign="middle" align="left"><strong>Programming languages &mdash;</strong></td><td valign="middle" align="left"><img src="https://skillicons.dev/icons?i=js,ts,python&theme=dark" alt="JavaScript, TypeScript, and Python" /></td></tr>
+<tr><td valign="middle" align="left"><strong>Frontend</strong></td><td valign="middle" align="left"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,shadcn&theme=dark" alt="React, Next.js, Tailwind CSS, and shadcn/ui" /></td></tr>
+<tr><td valign="middle" align="left"><strong>Database &amp; tools</strong></td><td valign="middle" align="left"><img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,prisma,aws,git,github&theme=dark" alt="PostgreSQL, Supabase, MongoDB, Prisma, AWS, Git, and GitHub" /></td></tr>
+<tr><td valign="middle" align="left"><strong>Backend</strong></td><td valign="middle" align="left"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="Node.js, Express, and FastAPI" /></td></tr>
+<tr><td valign="middle" align="left"><strong>Programming languages</strong></td><td valign="middle" align="left"><img src="https://skillicons.dev/icons?i=js,ts,python&theme=dark" alt="JavaScript, TypeScript, and Python" /></td></tr>
 </tbody>
 </table>
 
