@@ -4,7 +4,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=20&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=700&lines=Turning+thoughtful+ideas+into+useful+products;Building+clear+experiences+and+reliable+systems;Learning+with+curiosity%2C+building+with+purpose" alt="Animated introduction" />
 
-**Full-stack developer building useful, user-friendly web applications.**<br />
+**Full-stack developer building useful, user-friendly web applicationsadd .
+.**<br />
 📍 Accra, Ghana &nbsp;·&nbsp; 🌍 Building for the web
 
 <a href="https://github.com/maxwelldagadu"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -30,14 +31,14 @@ I build across the stack—from intuitive interfaces to backend services, APIs, 
 **Frontend**<br />
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,shadcn&theme=dark" alt="React, Next.js, Tailwind CSS, and shadcn/ui" />
 
+**Database & tools**<br />
+<img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,prisma,aws,git,github&theme=dark" alt="PostgreSQL, Supabase, MongoDB, Prisma, AWS, Git, and GitHub" />
+
 **Backend**<br />
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="Node.js, Express, and FastAPI" />
 
 **Programming languages**<br />
 <img src="https://skillicons.dev/icons?i=js,ts,python&theme=dark" alt="JavaScript, TypeScript, and Python" />
-
-**Database & tools**<br />
-<img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,prisma,aws,git,github,vscode&theme=dark" alt="PostgreSQL, Supabase, MongoDB, Prisma, AWS, Git, GitHub, and VS Code" />
 
 </div>
 
