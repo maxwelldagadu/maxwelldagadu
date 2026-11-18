@@ -26,15 +26,16 @@ I build across the stack—from intuitive interfaces to backend services, APIs, 
 
 ## Core stack
 
-<div align="center">
+<div align="left">
 
-<p><strong>Frontend &mdash;</strong> <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,shadcn&theme=dark" alt="React, Next.js, Tailwind CSS, and shadcn/ui" /></p>
-
-<p><strong>Database &amp; tools &mdash;</strong> <img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,prisma,aws,git,github&theme=dark" alt="PostgreSQL, Supabase, MongoDB, Prisma, AWS, Git, and GitHub" /></p>
-
-<p><strong>Backend &mdash;</strong> <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="Node.js, Express, and FastAPI" /></p>
-
-<p><strong>Programming languages &mdash;</strong> <img src="https://skillicons.dev/icons?i=js,ts,python&theme=dark" alt="JavaScript, TypeScript, and Python" /></p>
+<table align="left">
+<tbody>
+<tr><td valign="middle" align="left"><strong>Frontend &mdash;</strong></td><td valign="middle" align="left"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,shadcn&theme=dark" alt="React, Next.js, Tailwind CSS, and shadcn/ui" /></td></tr>
+<tr><td valign="middle" align="left"><strong>Database &amp; tools &mdash;</strong></td><td valign="middle" align="left"><img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,prisma,aws,git,github&theme=dark" alt="PostgreSQL, Supabase, MongoDB, Prisma, AWS, Git, and GitHub" /></td></tr>
+<tr><td valign="middle" align="left"><strong>Backend &mdash;</strong></td><td valign="middle" align="left"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="Node.js, Express, and FastAPI" /></td></tr>
+<tr><td valign="middle" align="left"><strong>Programming languages &mdash;</strong></td><td valign="middle" align="left"><img src="https://skillicons.dev/icons?i=js,ts,python&theme=dark" alt="JavaScript, TypeScript, and Python" /></td></tr>
+</tbody>
+</table>
 
 </div>
 
