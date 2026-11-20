@@ -4,8 +4,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=20&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=700&lines=Turning+thoughtful+ideas+into+useful+products;Building+clear+experiences+and+reliable+systems;Learning+with+curiosity%2C+building+with+purpose" alt="Animated introduction" />
 
-**Full-stack developer building useful, user-friendly web applications.
-**<br />
+Full-stack developer building useful, user-friendly web applications.
+<br />
 📍 Accra, Ghana &nbsp;·&nbsp; 🌍 Building for the web
 
 <a href="https://github.com/maxwelldagadu"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
